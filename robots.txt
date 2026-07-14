@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://melhorofertabr.github.io/sitemap.xml
